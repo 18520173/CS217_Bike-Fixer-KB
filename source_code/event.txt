@@ -1,0 +1,132 @@
+A:sự cố động cơ
+A1:động cơ không khởi động được hoặc khó khởi động
+A-1:sự cố đường nhiên liệu
+A11:hết nhiên liệu
+A12:tắc lỗ thông khí nắp bình xăng
+A13:lưu thông nhiên liệu trong ống gặp trở ngại, màn lọc nhiên liệu tắc
+A14:tắc van bình xăng
+A15:tắc đường xăng của bộ chế hòa khí hoặc van kim không hoạt động
+A-2:sự cố đường điện đánh lửa
+A21:muội than trong bugi quá dày
+A22:kẽ hở điện cực của bugi không chuẩn xác
+A23:cuộn cao áp hỏng
+A24:đường dây cao áp bị tuột hoặc ngắt điện không tốt
+A25:bộ phát điện ma nhê tô có vấn đề
+A26:công tắc đánh lửa rò điện
+A-3:sự cố áp suất xilanh không đủ
+A31:xilanh và piston bị mài mòn nghiêm trọng, vòng găng piston mất đi lực đàn hồi hoặc hỏng hóc
+A32:piston bị mài mòn hoặc hỏng hóc
+A33:đệm nắp xilanh bị hỏng, nắp xilanh không được ép chặt
+A34:bugi không được xoáy chặt, tấm đệm bugi hỏng
+A35:phớt dầu hỏng hóc
+A36:chốt lò xo hút khí bịt kín không tốt
+A4:sự cố động cơ tự tắt
+A41:nhiên liệu không thể dẫn lên
+A42:vòng dây đánh lửa chập mạch hoặc bị ngắt điện
+A43:vòng dây bên trong máy phát điện ma nhê tô bị chập mạch hoặc bị ngắt điện
+A44:bugi bị đánh thủng
+A45:phích cắm dây dẫn bị tuột
+A46:hộp trục khuỷu bị rò khí nghiêm trọng
+A47:động cơ quá nóng dẫn đến hiện tượng quá tải
+A5:sự cố động cơ không đủ công suất
+A51:hỗn hợp khí quá loãng
+A52:bugi tắt lửa hoặc bugi quá yếu
+A53:thời gian đánh lửa quá sớm hoặc quá chậm
+A54:hiệu suất nhiêu liệu quá thấp hoặc động cơ rò khí
+A55:bộ lọc không khí tắt
+A6:sự cố ống bô động cơ tỏa khói đen
+A61:hỗn hợp khí đốt không hết
+A62:hỗn hợp khí quá đặc
+A7:sự cố động cơ phát ra tiếng kêu lạ
+A71:âm thanh từ xilanh, piston, vòng găng piston
+A72:âm thanh từ thanh truyền, trục khuỷu, bánh đà
+A73:buồng đốt phát ra âm thanh lạ
+A8:sự cố động cơ không thể chạy không tải
+A81:đinh ốc điều chỉnh của van tiết lưu tốc độ không tải và đinh ốc điều chỉnh tốc độ chạy không tải điều chỉnh không đúng
+A82:lỗ đo lưu lượng chạy không tải bị tắt
+A83:đầu ghép bộ chế hòa khí, hộp trục khuỷu, tấm van nạp khí rò khí
+A84:mức xăng trong buồn phao của bộ chế hòa khí quá thấp
+A9:sự cố động cơ không ổn định
+A91:khe hở bugi quá nhỏ
+B:sự cố khi xe di chuyển
+B1:bánh xe sau lắc lư khi chạy
+B11:lót trục gióng sên sau bị mài mòn quá mức
+B12:nang hoa bánh sau lỏng lẻo, vàng bánh xe lắc lư
+B13:bánh sau quá non hơi
+B14:lực đàn hồi của lò xo bộ phận giảm sốc sau quá yếu hoặc đứt
+B15:dầu hydraulic trong bộ phận giảm sốc sau không đủ
+B16:ổ bi bánh xe bị mài mòn hoặc đai ốc bánh sau lỏng lẻo
+B2:xe đi ngoằn ngoèo
+B21:trục tay lái chuyển động không linh hoạt, xe mất khả năng cân bằng tự động
+B22:bánh trước và sau không nằm trên một đường thẳng
+B23:lực giảm sốc hai bên trái phải không cân bằng
+B24:vành xe biến dạng
+B25:khung xe cong vênh
+B3:xe chuyển hướng không linh hoạt
+B31:trụ tay lái quá chặt
+B32:vòng găng bít hoặc bi thép hư hỏng
+B33:hơi bánh trước không đủ
+B34:trụ tay lái cong vênh
+C:động cơ không khởi động được, không có điện, sau khi khởi động bình thường
+C1:đường điện hoặc acquy có vấn đề
+C11:lượng điện trong bình ắc quy không đủ
+C12:trụ nối mạch điện lỏng
+C13:nổ cầu chì
+C14:công tắc đánh lửa hỏng
+C15:dây dẫn lỏng hoặc đứt
+S:giải pháp
+S11:đổ xăng
+S12:làm sạch lỗ thông khí nắp bình xăng
+S13:thông ống nhiên liệu, thay màn lọc nhiên liệu
+S14:mở van bình xăng
+S15:tháo bộ chế hòa khí, dùng công cụ nén không khí thông đường xăng, thay mới van kim
+S21:loại bỏ muội than hoặc cặn nhiên liệu trong bugi
+S22:điều chỉnh kẻ hở điện cực của bugi
+S23:thay cuộn cao áp
+S24:lắp ráp lại đường dây cao áp hoặc thay mới linh kiện
+S25:sửa ma nhê tô hoặc thay mới
+S26:sửa công tắc đánh lửa hoặc thay mới
+S32:thay piston
+S33:thay đệm nắp xilanh, vặn chặt đinh ốc ở nắp xilanh theo lực xoắn quy định
+S34:vặn chặt lại bugi, thay tấm lót bugi
+S35:kiểm tra phớt dầu có bị rò dầu không, nếu có thay mới phớt dầu
+S36:dùng xăng rửa sạch chốt lò xo, nếu lò xo mất đàn hồi thì phải thay mới lò xo theo quy cách cũ
+S41:kiểm tra khóa xăng
+S42:sửa hoặc thay mới vòng đánh lửa
+S44:sửa hoặc thay mới bugi
+S45:cắm chặt lại ổ cắm dây dẫn
+S46:vặn chắc tất cả các định ốc ở hộp trục khuỷu, nếu keo bịt kín các mặt tiếp xúc không đồng đều thì phải tháo ra phết lại keo rồi vặn định ốc cố định
+S47:thay mới ổ trục động cơ
+S48:ngưng sử dụng để làm mát máy, tuyệt đối không dội nước vào máy khi đang nóng
+S51:điều chỉnh tỉ lệ hỗn hợp trong bộ chế hòa khí đạt giá trị tốt nhất
+S53:kiểm tra vị trí lắp ráp của ma nhê tô, điều chỉnh thời gian đánh lửa đúng quy định
+S54:thay nhiên liệu có tỉ lệ octan cao hơn
+S55:làm sạch ống bô
+S61:vệ sinh bụi bẩn bên trong bộ lọc không khí
+S71:thay xilanh
+S72:thay vòng găng piston
+S73:thay thanh truyền, trục khuỷu, chỉnh lại bánh đà hoặc thay mới
+S81:điều chỉnh đinh ốc điều chỉnh của van tiết lưu tốc độ không tải và đinh ốc điều chỉnh tốc độ chạy không tải
+S82:thông lỗ đo lưu lượng tốc độ chạy không tải
+S83:kiểm tra và sửa chữa bộ phận ở đầu ghép bộ chế hòa khí, hộp trục khuỷu và tấm van khí nạp
+S84:điều chỉnh lại mức dầu trong buồng phao của bộ chế hòa khí
+S91:điều chỉnh lại khe hở bugi
+SB11:thay mới trục gióng sên sau
+SB12:điều chỉnh nang hoa bánh sau
+SB13:bơm bánh sau
+SB14:thay mới lò xo của bộ phận giảm sốc sau
+SB15:thêm dầu thủy lực cho bộ phận giảm sốc sau
+SB16:thay mới ổ bi bánh xe hoặc vặn chặt đai ốc trục sau
+SB21:điều chỉnh lại trụ tay lái
+SB22:điều chỉnh bánh trước sau
+SB23:điều chỉnh bộ phận giảm sốc trước sau
+SB24:cân lại vành bánh xe
+SB25:điều chỉnh hoặc thay mới khung xe
+SB31:điều chỉnh lại trụ tay lái
+SB32:thay vòng găng bít trụ tay lái hoặc bi thép đã hỏng
+SB33:bơm hơi bánh trước
+SB34:thay mới trụ tay lái
+SC1:sạc điện cho bình ắc quy hoặc thay mới
+SC2:gắn chặt lại trụ nối mạch điện
+SC3:thay cầu chì
+SC4:nối lại dây dẫn 
